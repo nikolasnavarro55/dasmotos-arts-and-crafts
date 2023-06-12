@@ -1,0 +1,42 @@
+* {
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+  background-color: darkslategrey;
+  color: aliceblue;
+}
+
+#main-title {
+  background-image: url(https://content.codecademy.com/courses/freelance-1/unit-2/pattern.jpeg?_gl=1*1ocjdct*_ga*MTMzNzA0MzU4OC4xNjcwMzM0NDEz*_ga_3LRZM6TM9L*MTY4NjU4NzM3Ny43NS4xLjE2ODY1ODk2ODcuNTguMC4w);
+  width: 100%;
+  height: 50px;
+  text-align: center;
+  padding: 15px;
+  top: 0;
+  color: white;
+}
+
+footer {
+  width: 100%;
+  text-align: center;
+  padding: 10px;
+}
+
+h2,
+h3 {
+  font-weight: bold;
+}
+
+a {
+  color: coral;
+}
+
+.title {
+  background-color: coral;
+  color: black;
+  width: 100%;
+  padding: 25px;
+}
+
+img {
+  filter: drop-shadow(4px 4px 10px black);
+}
